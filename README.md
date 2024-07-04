@@ -5,6 +5,8 @@ Get Data: Click on the "Home" tab and then click "Get Data".
 Select OData Feed: In the "Get Data" window, select "OData Feed" and click "Connect".
 Enter OData URL: In the OData Feed dialog box, enter the URL of the OData service you want to connect to and click "OK".(**https://services.odata.org/v2/northwind/northwind.svc**/)
 Select Data: Browse through the available data sets in the OData feed, select the ones you need, and click "Load".
+
+
 **Step 2: Data Transformation **
 Power Query Editor: If needed, use the Power Query Editor to clean and transform the data.
 Data Cleaning: Remove unnecessary columns, handle missing values, and format data types.
